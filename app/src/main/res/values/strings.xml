@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tip Calculator</string>
+    <string name="enter">Enter bill total</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip_amount_15">15%</string>
+    <string name="tip_amount_20">20%</string>
+    <string name="tip_amount_18">18%</string>
+    <string name="tip_total_text">Tip Total:</string>
+    <string name="sw_custom_amount">Custom Amount</string>
+    <string name="enter_custom_amount">Enter Custom Amount...</string>
+
+</resources>
